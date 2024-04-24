@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WebApiNet5")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4b1c0871b3b0875f661c4b9354ed61edf12d0dab")]
 [assembly: System.Reflection.AssemblyProductAttribute("WebApiNet5")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WebApiNet5")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
